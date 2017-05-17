@@ -9,4 +9,4 @@ def powerset(iterable):
 
 
 # what is input? (2,3,4)
-# output should be the output? () (2) (3 ) (4) (2,3) (2,4) (3,4) (2,3,4)
+# what should be the output? () (2) (3 ) (4) (2,3) (2,4) (3,4) (2,3,4)
